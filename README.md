@@ -36,7 +36,7 @@ c) videos that fall under the public domain or are otherwise free to be used und
 
 
 # Finally
-I want to thank the developers of the amazing pytube package powers my script to run efficiently in dowloading entire playlist of a channel.
+I want to thank the developers of the amazing pytube package, this powers my script to run efficiently in dowloading entire playlist of a channel.
 
 
 # How it works?
